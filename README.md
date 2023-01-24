@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **issaru11@bk.ru**
 
-**EXAMPLES OF WORK
+<h1 align="center">Examples of work</h1>
+**Web application on Flask
 <img src="https://github.com/issaru11/issaru11/blob/main/Project-on-Flask.gif"/>
 
 <h3 align="left">Languages and Tools:</h3>
