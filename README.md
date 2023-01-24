@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **issaru11@bk.ru**
 
+(img alt="Coding" width="400" src="https://github.com/issaru11/issaru11/blob/main/anime%20web.gif")
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
