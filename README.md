@@ -1,5 +1,6 @@
 [![MasterHead](banner.png)](https://github.com/issaru11/issaru11/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aruzhan</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cyber+security+student)](https://git.io/typing-svg)
 <h3 align="center">A cyber security student from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **Deep learning**
