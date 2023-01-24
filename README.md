@@ -10,7 +10,7 @@
 
 <h1 align="center">Examples of work</h1>
 **Web application on Flask
-<img src="https://github.com/issaru11/issaru11/blob/main/Project-on-Flask.gif"/>
+<img src="https://github.com/issaru11/issaru11/blob/main/Project-on-Flask.gif" width='1080'/>
 **Anime website
 <img src="https://github.com/issaru11/issaru11/blob/main/anime.gif"/>
 
