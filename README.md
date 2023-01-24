@@ -1,10 +1,10 @@
 [![MasterHead](banner.png)](https://github.com/issaru11/issaru11/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aruzhan</h1>
-<h3 align="center">A passionate cyber security student from Kazakhstan</h3>
+<h3 align="center">A cyber security student from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 👨‍💻 All of my projects are available at [this readme file ^^](this readme file ^^)
+- 👨‍💻 All of my projects are available at **this readme file**
 
 - 📫 How to reach me **issaru11@bk.ru**
 
